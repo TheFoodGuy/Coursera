@@ -50,11 +50,7 @@ public class streamTest {
             .sorted()
             .forEach(System.out::println);
         
-        Map<String, Double> inactive = 
-            inactiveStudents
-                .stream()
-                .filter(s -> !s.checkIsCurrent())
-                .collect(Collectors.toMap(Student::getFirstName, Collectors.counting()))
+        
     }
 }
 
