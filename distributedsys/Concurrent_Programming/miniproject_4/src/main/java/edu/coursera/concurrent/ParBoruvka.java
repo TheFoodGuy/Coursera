@@ -24,11 +24,12 @@ public final class ParBoruvka extends AbstractBoruvka<ParBoruvka.ParComponent> {
 
     /**
      * {@inheritDoc}
+     * TODO: RIGHT HERE MAN
      */
     @Override
     public void computeBoruvka(final Queue<ParComponent> nodesLoaded,
             final SolutionToBoruvka<ParComponent> solution) {
-        throw new UnsupportedOperationException();
+
     }
 
     /**
