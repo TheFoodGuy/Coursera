@@ -10,6 +10,7 @@ Once I get all the test cases working, I guess I'm done (however this is a bad m
 
 # Notes
 Technically speaking, concept questions and homeworks are the notes but these notes are for myself and will be scanned onto github for further confirmation
+Also, I like to rewatch these videos multiple times until they stick but progressively faster. The second time I watch these videos should be when I take the notes for them hehehe. 
 
 # To anyone reading this I guess
 You're welcome to read, use, and maybe copy (dude I hope not cause we gotta learn this stuff and you'll be better off doing it on your own). However, if you do want like a reference because you have been stuck and there is no one else available, here you go (stuck for a few days I guess?). 
