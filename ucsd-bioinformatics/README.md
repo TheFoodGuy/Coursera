@@ -1,0 +1,1 @@
+I want to take BME 205, 230a and 230b but I just don't want to overload so hard during quarter systems. Sooooo, here I am learning this online from coursera. I highly recommend this course but the current course4 - molecular evolution is somewhat hitting me hard so I'll finish the other courses before coming back to this.
