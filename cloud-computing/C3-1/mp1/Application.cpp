@@ -33,6 +33,7 @@ int main(int argc, char *argv[]) {
 
 	// Create a new application object
 	Application *app = new Application(argv[1]);
+	std::cout << "this is the file name here " << argv[1] << std::endl; 
 	// Call the run function
 	app->run();
 	// When done delete the application object
