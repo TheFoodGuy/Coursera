@@ -26,6 +26,7 @@ void Params::setparams(char *config_file) {
 
 	//printf("Parameters of the test case: %d %d %d %lf\n", MAX_NNB, SINGLE_FAILURE, DROP_MSG, MSG_DROP_PROB);
 
+	// why would you do that? just say MAX_NNB
 	EN_GPSZ = MAX_NNB;
 	STEP_RATE=.25;
 	MAX_MSG_SIZE = 4000;

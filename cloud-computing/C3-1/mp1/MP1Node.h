@@ -44,9 +44,24 @@ typedef struct MessageHdr {
 }MessageHdr;
 
 /**
+ * STRUCT NAME: heartbeat 
+ * DESCRIPTION: is the heartbeat implementation with id, port, heartbeatcounter
+ * This is based on the cornell paper, for more info, it's on the assignment folder
+ */
+typedef struct HeartBeat{
+	int heartBeatCounter; // this is the specific heartbeat counter timer 
+	int port; // this should be the next member it randomly selects for gossip
+	int hostAddr; //where is this heartbeat coming from
+}HeartBeat;
+
+/**
  * CLASS NAME: MP1Node
  *
  * DESCRIPTION: Class implementing Membership protocol functionalities for failure detection
+ * 
+ * 
+ * //// the important part is the Member class called memberNode that contains the 
+ * individual nodes used to emulate this network.
  */
 class MP1Node {
 private:

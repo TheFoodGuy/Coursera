@@ -14,6 +14,7 @@ EmulNet::EmulNet(Params *p)
 	//trace.funcEntry("EmulNet::EmulNet");
 	int i,j;
 	par = p;
+	//I guess it sets the pointer of the emulNet to 1
 	emulnet.setNextId(1);
 	emulnet.settCurrBuffSize(0);
 	enInited=0;
@@ -141,6 +142,9 @@ int EmulNet::ENsend(Address *myaddr, Address *toaddr, string data) {
  * RETURN:
  * 0
  */
+
+// This is how Map works to some degree, you can use any function call as long as it 
+// matches the second args and is direct casted to it. 
 int EmulNet::ENrecv(Address *myaddr, int (* enq)(void *, char *, int), struct timeval *t, int times, void *queue){
 	// times is always assumed to be 1
 	int i;

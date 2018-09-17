@@ -43,6 +43,9 @@ int MP1Node::recvLoop() {
     	return false;
     }
     else {
+        // calling the reference of the this->memberNode->addr
+        // it is making a queue that constantly loops around and will only work with the ones that 
+        // work
     	return emulNet->ENrecv(&(memberNode->addr), enqueueWrapper, NULL, 1, &(memberNode->mp1q));
     }
 }
@@ -227,6 +230,8 @@ bool MP1Node::recvCallBack(void *env, char *data, int size ) {
  * DESCRIPTION: Check if any node hasn't responded within a timeout period and then delete
  * 				the nodes
  * 				Propagate your membership list
+ * 
+ * this is where my membershipList should start at. Now how do I start it LOL
  */
 void MP1Node::nodeLoopOps() {
 

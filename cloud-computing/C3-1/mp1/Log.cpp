@@ -9,6 +9,8 @@
 /**
  * Constructor
  */
+
+// what does firsttime even mean? 
 Log::Log(Params *p) {
 	par = p;
 	firstTime = false;

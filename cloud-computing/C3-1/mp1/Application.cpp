@@ -31,10 +31,12 @@ int main(int argc, char *argv[]) {
 		return FAILURE;
 	}
 
-	// Create a new application object
+	// Create a new application object which creates the list here as well 
+	// this contains all of the informaiton of the files here
 	Application *app = new Application(argv[1]);
+	// this reads in the testcases here, where does this filename goes? 
 	std::cout << "this is the file name here " << argv[1] << std::endl; 
-	// Call the run function
+	// Call the run function, this should start the emulation 
 	app->run();
 	// When done delete the application object
 	delete(app);
@@ -52,11 +54,13 @@ Application::Application(char *infile) {
 	par->setparams(infile);
 	log = new Log(par);
 	en = new EmulNet(par);
+	// this is actually setting up the membership list here
 	mp1 = (MP1Node **) malloc(par->EN_GPSZ * sizeof(MP1Node *));
 
 	/*
 	 * Init all nodes
 	 */
+	// 
 	for( i = 0; i < par->EN_GPSZ; i++ ) {
 		Member *memberNode = new Member;
 		memberNode->inited = false;
@@ -94,9 +98,13 @@ int Application::run()
 	int timeWhenAllNodesHaveJoined = 0;
 	// boolean indicating if all nodes have joined
 	bool allNodesJoined = false;
+	// set the seed back to it's NULL set or a blank state for 
+	// random number generator kind of thing
 	srand(time(NULL));
 
 	// As time runs along
+	// par is part of the application class, why not use this->par->globaltime for confirmation?
+	// run up to 700 times
 	for( par->globaltime = 0; par->globaltime < TOTAL_RUNNING_TIME; ++par->globaltime ) {
 		// Run the membership protocol
 		mp1Run();
@@ -128,6 +136,8 @@ void Application::mp1Run() {
 		/*
 		 * Receive messages from the network and queue them in the membership protocol queue
 		 */
+		//// if current time is less than .25 * i and the memberNode has not failed
+		//// recvLoop().
 		if( par->getcurrtime() > (int)(par->STEP_RATE*i) && !(mp1[i]->getMemberNode()->bFailed) ) {
 			// Receive messages from the network and queue them
 			mp1[i]->recvLoop();
@@ -153,7 +163,8 @@ void Application::mp1Run() {
 		 */
 		else if( par->getcurrtime() > (int)(par->STEP_RATE*i) && !(mp1[i]->getMemberNode()->bFailed) ) {
 			// handle messages and send heartbeats
-			mp1[i]->nodeLoop();
+			mp1[i]->nodeLoop(); // this is how the heartbeat will start at.
+			// if debuglog is declared here, this will send out the log msg of the queue 
 			#ifdef DEBUGLOG
 			if( (i == 0) && (par->globaltime % 500 == 0) ) {
 				log->LOG(&mp1[i]->getMemberNode()->addr, "@@time=%d", par->getcurrtime());
