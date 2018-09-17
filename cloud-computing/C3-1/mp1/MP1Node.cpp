@@ -94,6 +94,8 @@ void MP1Node::nodeStart(char *servaddrstr, short servport) {
  * FUNCTION NAME: initThisNode
  *
  * DESCRIPTION: Find out who I am and start up
+ * 
+ * initializing this node and its memberListTAble
  */
 int MP1Node::initThisNode(Address *joinaddr) {
 	/*
@@ -138,6 +140,8 @@ int MP1Node::introduceSelfToGroup(Address *joinaddr) {
         msg = (MessageHdr *) malloc(msgsize * sizeof(char));
 
         // create JOINREQ message: format of data is {struct Address myaddr}
+        //// this means that this node wants to join in on the group
+        //// have to handle JOINREQ in recvCallBack as the first step.
         msg->msgType = JOINREQ;
         memcpy((char *)(msg+1), &memberNode->addr.addr, sizeof(memberNode->addr.addr));
         memcpy((char *)(msg+1) + 1 + sizeof(memberNode->addr.addr), &memberNode->heartbeat, sizeof(long));
@@ -217,11 +221,19 @@ void MP1Node::checkMessages() {
  * FUNCTION NAME: recvCallBack
  *
  * DESCRIPTION: Message handler for different message types
+ * 
+ * I have to handle different types of message here first before implementing the protocol.
+ * What exactly does recvCallBack do? since it handles different messages type.
  */
 bool MP1Node::recvCallBack(void *env, char *data, int size ) {
 	/*
 	 * Your code goes here
 	 */
+
+    // this is ACK to the node that sent a REQUEST to join the group
+    
+
+
 }
 
 /**
@@ -232,6 +244,7 @@ bool MP1Node::recvCallBack(void *env, char *data, int size ) {
  * 				Propagate your membership list
  * 
  * this is where my membershipList should start at. Now how do I start it LOL
+ * 
  */
 void MP1Node::nodeLoopOps() {
 
