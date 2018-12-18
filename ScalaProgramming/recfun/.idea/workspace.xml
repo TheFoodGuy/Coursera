@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a7a723-5891-45e0-934f-75c1fb3a2000" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$0fa36e6184873c1c173c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$0fa36e6184873c1c173c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$0fa36e6184873c1c173c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$0fa36e6184873c1c173c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$1e48c0e01e70f9783d85$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$1e48c0e01e70f9783d85$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$1e48c0e01e70f9783d85.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$1e48c0e01e70f9783d85.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$37495f59dd9e4c097793$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$37495f59dd9e4c097793$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$37495f59dd9e4c097793.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$37495f59dd9e4c097793.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$42652d624b5cf48aa294$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$42652d624b5cf48aa294$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$42652d624b5cf48aa294.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$42652d624b5cf48aa294.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4425cc4f73e16a07b868$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4425cc4f73e16a07b868$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4425cc4f73e16a07b868.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4425cc4f73e16a07b868.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4ebdb542994f308d078c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4ebdb542994f308d078c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4ebdb542994f308d078c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$4ebdb542994f308d078c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$55b28622cc24e8552c19$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$55b28622cc24e8552c19$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$55b28622cc24e8552c19.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$55b28622cc24e8552c19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$6f6f3a3d93d7e6cc373b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$6f6f3a3d93d7e6cc373b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$6f6f3a3d93d7e6cc373b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$6f6f3a3d93d7e6cc373b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$92253889e080f0637517$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$92253889e080f0637517$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$92253889e080f0637517$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$92253889e080f0637517.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$92253889e080f0637517.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$c921392e95dad094c6dc$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$c921392e95dad094c6dc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$c921392e95dad094c6dc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/config-classes/$c921392e95dad094c6dc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/src/main/Lecture.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/src/main/Lecture.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/src/main/scala/patmat/Huffman.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/src/main/scala/patmat/Huffman.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/src/test/scala/patmat/HuffmanSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/src/test/scala/patmat/HuffmanSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/scala-2.11/classes/patmat/Huffman$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/scala-2.11/classes/patmat/Huffman$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/scala-2.11/classes/patmat/Huffman.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/scala-2.11/classes/patmat/Huffman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/test/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/streams/test/test/isModule=false name=patmat.HuffmanSuite/test/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/streams/test/test/isModule=false name=patmat.HuffmanSuite/test/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/target/test-reports/patmat.HuffmanSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/target/test-reports/patmat.HuffmanSuite.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/PascalSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/recfun/Main.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="width" value="961" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-recfun" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/dliang/Documents/OnlineEducation/ScalaProgramming/recfun/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-recfun-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="647646337" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="1073251015" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3896389775" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="2270748580" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="1951503120" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="3016454982" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a7a723-5891-45e0-934f-75c1fb3a2000" name="Default Changelist" comment="" />
+      <created>1545091964819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545091964819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="961" height="1055" extended-state="4" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27699018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32942432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="sbt" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/PascalSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

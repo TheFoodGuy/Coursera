@@ -2,89 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b78189a-b68a-4f7e-a12c-2dc98cde01e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1064bc8540ee2688f80c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1064bc8540ee2688f80c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1064bc8540ee2688f80c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4f687ece73c497dbd68e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4f687ece73c497dbd68e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4f687ece73c497dbd68e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6de76ad732bcdb41efa4$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6de76ad732bcdb41efa4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6de76ad732bcdb41efa4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6de76ad732bcdb41efa4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6e08401cb276fd5dd4fc$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6e08401cb276fd5dd4fc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6e08401cb276fd5dd4fc.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6e08401cb276fd5dd4fc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$72ae56ed7f61bf19a5fc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$72ae56ed7f61bf19a5fc.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$72ae56ed7f61bf19a5fc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8f1c5e64682fd67a0c3b$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8f1c5e64682fd67a0c3b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8f1c5e64682fd67a0c3b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8f1c5e64682fd67a0c3b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c898e06dca4f7524a8e6$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c898e06dca4f7524a8e6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c898e06dca4f7524a8e6.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c898e06dca4f7524a8e6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$30f2e628eaf0a69fc9b9$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$30f2e628eaf0a69fc9b9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$30f2e628eaf0a69fc9b9.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$30f2e628eaf0a69fc9b9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34e73c0201a1d825acec$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34e73c0201a1d825acec$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34e73c0201a1d825acec.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34e73c0201a1d825acec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf$$anonfun$$sbtdef$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf$$anonfun$$sbtdef$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59b3ab5236374de34ebf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$612a012f4f51687f30d5$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$612a012f4f51687f30d5$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$612a012f4f51687f30d5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$612a012f4f51687f30d5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$612a012f4f51687f30d5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6aedab1f5d4432a6df78$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6aedab1f5d4432a6df78$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6aedab1f5d4432a6df78.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6aedab1f5d4432a6df78.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3b81d5c2d291ab2be01$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3b81d5c2d291ab2be01$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3b81d5c2d291ab2be01.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3b81d5c2d291ab2be01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b933bd0245905eff7393$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b933bd0245905eff7393$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b933bd0245905eff7393.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b933bd0245905eff7393.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8387dda566a7b761e52$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8387dda566a7b761e52$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8387dda566a7b761e52.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8387dda566a7b761e52.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f54397d9d68532455dd0$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f54397d9d68532455dd0$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f54397d9d68532455dd0.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f54397d9d68532455dd0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f55597d7b71370a0aeab$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f55597d7b71370a0aeab$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f55597d7b71370a0aeab.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f55597d7b71370a0aeab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7a4efc5af33f0798bee$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7a4efc5af33f0798bee$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7a4efc5af33f0798bee.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7a4efc5af33f0798bee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fa36e6184873c1c173c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fa36e6184873c1c173c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fa36e6184873c1c173c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fa36e6184873c1c173c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e48c0e01e70f9783d85$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e48c0e01e70f9783d85$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e48c0e01e70f9783d85.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e48c0e01e70f9783d85.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37495f59dd9e4c097793$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37495f59dd9e4c097793$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37495f59dd9e4c097793.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37495f59dd9e4c097793.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$42652d624b5cf48aa294$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$42652d624b5cf48aa294$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$42652d624b5cf48aa294.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$42652d624b5cf48aa294.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4425cc4f73e16a07b868$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4425cc4f73e16a07b868$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4425cc4f73e16a07b868.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4425cc4f73e16a07b868.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ebdb542994f308d078c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ebdb542994f308d078c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ebdb542994f308d078c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4ebdb542994f308d078c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b28622cc24e8552c19$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b28622cc24e8552c19$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b28622cc24e8552c19.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b28622cc24e8552c19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f6f3a3d93d7e6cc373b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f6f3a3d93d7e6cc373b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f6f3a3d93d7e6cc373b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6f6f3a3d93d7e6cc373b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92253889e080f0637517$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92253889e080f0637517$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92253889e080f0637517$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92253889e080f0637517.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92253889e080f0637517.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c921392e95dad094c6dc$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c921392e95dad094c6dc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c921392e95dad094c6dc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c921392e95dad094c6dc.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.17/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.17/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.17/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.17/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" afterDir="false" />
@@ -98,36 +59,26 @@
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-750703454be73072ce64f1c215ff85550284ae5b-component.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-750703454be73072ce64f1c215ff85550284ae5b-component.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Lecture.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Lecture.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=patmat.HuffmanSuite/test/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=patmat.HuffmanSuite/test/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/patmat.HuffmanSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/patmat.HuffmanSuite.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -144,35 +95,52 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Lecture.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.45633653">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="410">
+                  <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/Lecture.sc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="332">
+                  <caret line="169" column="6" selection-start-line="169" selection-start-column="6" selection-end-line="169" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -184,6 +152,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>weight</find>
+      <find>Leaf</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -199,15 +168,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="959" />
+    <option name="x" value="-1" />
     <option name="width" value="961" />
-    <option name="height" value="1054" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,17 +245,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542918282115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543288617354" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -363,7 +332,7 @@
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12886049" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.094249204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +346,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" weight="0.32942432" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="7" visible="true" weight="0.27292112" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32942432" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -400,22 +369,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Lecture.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
         </state>
       </provider>
     </entry>

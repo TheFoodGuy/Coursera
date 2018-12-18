@@ -9,4 +9,5 @@ list.map(x => list.count(_ == x))
 
 "haskell scala".groupBy(identity).mapValues(_.size).toList
 
-s.groupBy(identity).mapValues(_.size).toList
+val pairs = s.groupBy(identity).mapValues(_.size).toList
+

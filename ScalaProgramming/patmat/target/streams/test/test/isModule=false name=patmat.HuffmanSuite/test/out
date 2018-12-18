@@ -2,3 +2,7 @@
 [0m[[0minfo[0m] [0m[32m- weight of a larger tree[0m[0m
 [0m[[0minfo[0m] [0m[32m- chars of a larger tree[0m[0m
 [0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
+[0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
+[0m[[0minfo[0m] [0m[31m- createCodeTree *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Fork(Leaf(A,8),Fork(Fork(Fork(Leaf(H,1),Leaf(D,1),List(H, D),2),Fork(Leaf(G,1),Leaf(C,1),List(G, C),2),List(H, D, G, C),4),Fork(Fork(Leaf(E,1),Leaf(F,1),List(E, F),2),Leaf(B,3),List(E, F, B),5),List(H, D, G, C, E, F, B),9),List(A, H, D, G, C, E, F, B),17) did not equal Fork(Leaf(A,8),Fork(Fork(Leaf(B,3),Fork(Leaf(C,1),Leaf(D,1),List(C, D),2),List(B, C, D),5),Fork(Fork(Leaf(E,1),Leaf(F,1),List(E, F),2),Fork(Leaf(G,1),Leaf(H,1),List(G, H),2),List(E, F, G, H),4),List(B, C, D, E, F, G, H),9),List(A, B, C, D, E, F, G, H),17) (HuffmanSuite.scala:56)[0m[0m
