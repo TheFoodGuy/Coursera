@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/patmat.iml" filepath="$PROJECT_DIR$/.idea/patmat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/progfun1-patmat.iml" filepath="$PROJECT_DIR$/.idea/modules/progfun1-patmat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/progfun1-patmat-build.iml" filepath="$PROJECT_DIR$/.idea/modules/progfun1-patmat-build.iml" />
     </modules>

@@ -1,129 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b93d8be0-9bbb-4d16-bc57-d35d0dcb48f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Example/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/.idea/modules/Example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/.idea/modules/example-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/main/scala/HelloWorld.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.Rhistory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Week1/Carray" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPP/Week1/Carray" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/._mp1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Application.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Application.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._EmulNet.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._EmulNet.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Grader.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Log.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Log.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._MP1Node.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._MP1Node.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Member.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Member.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Params.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Params.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._Queue.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._mp1_specifications.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._stdincludes.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._submit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/._testcases" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/testcases/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/testcases/._msgdropsinglefailure.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/testcases/._multifailure.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/__MACOSX/mp1/testcases/._singlefailure.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/mp1/Grader.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-1/mp1/Grader.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-1/mp1/originalGrader.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-1/mp1/originalGrader.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/._mp2_assignment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Application.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Application.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._EmulNet.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._EmulNet.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Entry.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Entry.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._HashTable.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._HashTable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._KVStoreGrader.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Log.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Log.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._MP1Node.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._MP1Node.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._MP2-specification-document.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._MP2Node.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._MP2Node.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Member.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Member.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Message.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Message.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Node.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Node.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Params.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Params.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Queue.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Trace.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._Trace.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._common.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._stdincludes.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._submit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/._testcases" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/testcases/._create.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/testcases/._delete.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/testcases/._read.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/__MACOSX/mp2_assignment/testcases/._update.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Application" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Application" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Application.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Application.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Application.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Application.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/EmulNet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/EmulNet.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/EmulNet.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/EmulNet.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Entry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Entry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Entry.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Entry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/HashTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/HashTable.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/HashTable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/HashTable.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/KVStoreGrader.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/KVStoreGrader.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Log.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Log.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Log.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Log.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP1Node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP1Node.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP1Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP1Node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP2-specification-document.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP2-specification-document.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP2Node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP2Node.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP2Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/MP2Node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Member.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Member.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Member.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Member.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Message.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Message.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Message.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Message.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Node.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Params.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Params.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Params.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Params.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Trace.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Trace.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Trace.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/Trace.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/common.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/stdincludes.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/stdincludes.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/create.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/create.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/delete.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/delete.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/read.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/read.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/update.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../cloud-computing/C3-2/mp2_assignment/testcases/update.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../datascience/.Rhistory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../datascience/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_0/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_0/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_2/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_2/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_2/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_3/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../distributedsys/Parallel_Programming/miniproject_3/.project" beforeDir="false" />
+    <list default="true" id="d9c7d9a2-1080-45f7-8615-0eee65321693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$22c280957a71d4add242$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$22c280957a71d4add242$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$22c280957a71d4add242.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$22c280957a71d4add242.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b3ef5ccd890ccd40d37$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b3ef5ccd890ccd40d37$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b3ef5ccd890ccd40d37.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b3ef5ccd890ccd40d37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b7e15f33f714170aa8c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b7e15f33f714170aa8c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b7e15f33f714170aa8c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$3b7e15f33f714170aa8c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$aef72d9169658008616e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$aef72d9169658008616e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$aef72d9169658008616e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$aef72d9169658008616e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$f4838803a65ef0814dd8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$f4838803a65ef0814dd8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$f4838803a65ef0814dd8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$f88f54d3535e88579ac2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$f88f54d3535e88579ac2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$f88f54d3535e88579ac2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$fd2406ef932f169c5bec$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$fd2406ef932f169c5bec.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$fd2406ef932f169c5bec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$07c99b2bf40bebef2459$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$07c99b2bf40bebef2459$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$07c99b2bf40bebef2459.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$07c99b2bf40bebef2459.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$140facb440e23af8692a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$140facb440e23af8692a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$140facb440e23af8692a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$140facb440e23af8692a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3244edc0827c4f7155b9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3244edc0827c4f7155b9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3244edc0827c4f7155b9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3244edc0827c4f7155b9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3d0e3363666eb9d1e55e$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3d0e3363666eb9d1e55e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3d0e3363666eb9d1e55e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3d0e3363666eb9d1e55e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3fc0caa89ddebd5ca64d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3fc0caa89ddebd5ca64d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3fc0caa89ddebd5ca64d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$3fc0caa89ddebd5ca64d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6a1d23e520e19cc220a5$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6a1d23e520e19cc220a5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6a1d23e520e19cc220a5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6a1d23e520e19cc220a5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7747979d6cbd52e4bcad$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7747979d6cbd52e4bcad$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7747979d6cbd52e4bcad.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7747979d6cbd52e4bcad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7d11677318e37031bacc$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7d11677318e37031bacc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7d11677318e37031bacc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$7d11677318e37031bacc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$a5a417f076f9c97d4da9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$a5a417f076f9c97d4da9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$a5a417f076f9c97d4da9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$a5a417f076f9c97d4da9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$fca5a7acd553e36d4080$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$fca5a7acd553e36d4080$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$fca5a7acd553e36d4080$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$fca5a7acd553e36d4080.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$fca5a7acd553e36d4080.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/src/main/scala/funsets/FunSets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/src/main/scala/funsets/FunSets.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$29621c375faa8c764396$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$29621c375faa8c764396$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$29621c375faa8c764396.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$29621c375faa8c764396.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3bc6697a9c3b0f01665f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3bc6697a9c3b0f01665f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3bc6697a9c3b0f01665f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3bc6697a9c3b0f01665f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$96861d642b6a825a8ea3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$96861d642b6a825a8ea3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$96861d642b6a825a8ea3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$96861d642b6a825a8ea3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9dab28c86f9c8e86da4c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9dab28c86f9c8e86da4c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9dab28c86f9c8e86da4c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e5b3909ed824057314a7$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e5b3909ed824057314a7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e5b3909ed824057314a7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e5b3909ed824057314a7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ebe7ff22f46597da4750$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ebe7ff22f46597da4750.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ebe7ff22f46597da4750.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ee7262e0e1e79187ff99$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ee7262e0e1e79187ff99.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ee7262e0e1e79187ff99.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0826c86fbe125d0d7e45$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0826c86fbe125d0d7e45$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0826c86fbe125d0d7e45.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0826c86fbe125d0d7e45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$20801e5ad7fc51272d8b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$20801e5ad7fc51272d8b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$20801e5ad7fc51272d8b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$20801e5ad7fc51272d8b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47ed2eacbd38921cbae7$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47ed2eacbd38921cbae7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47ed2eacbd38921cbae7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$47ed2eacbd38921cbae7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c287839271833bb1a30$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c287839271833bb1a30$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c287839271833bb1a30.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c287839271833bb1a30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8393ad47370f615e83da$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8393ad47370f615e83da$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8393ad47370f615e83da$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8393ad47370f615e83da.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8393ad47370f615e83da.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$987481879dfe41eb4f91$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$987481879dfe41eb4f91$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$987481879dfe41eb4f91.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$987481879dfe41eb4f91.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae1082b8498794bb1933$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae1082b8498794bb1933$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae1082b8498794bb1933.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ae1082b8498794bb1933.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cfa4b990b928e574695b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cfa4b990b928e574695b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cfa4b990b928e574695b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cfa4b990b928e574695b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d0921446ffbc19051f15$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d0921446ffbc19051f15$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d0921446ffbc19051f15.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d0921446ffbc19051f15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e93e157f9d985e01c81d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e93e157f9d985e01c81d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e93e157f9d985e01c81d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e93e157f9d985e01c81d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/objsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -139,154 +233,62 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1050614404">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="sc" value="1" />
-          <entry key="scala" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Scala" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="sbtShell" value="132" />
-          <entry key="sc" value="1431" />
-          <entry key="scala" value="2192" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Scala" value="3623" />
-          <entry key="sbtShell" value="132" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="501">
-                  <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="603">
-                  <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Worksheet" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>filter</find>
-      <find>isEmpty</find>
-      <find>mostRetweeted</find>
-      <find>descending</find>
-      <find>filterAcc</find>
-    </findStrings>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/lecture.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/scala/lecture.sc" />
-        <option value="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
-      </list>
-    </option>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="959" />
+    <option name="width" value="953" />
+    <option name="height" value="1054" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="449" />
-    <option name="width" value="949" />
-    <option name="height" value="1053" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objsets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -294,39 +296,19 @@
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
               <item name="objsets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objsets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun1-objsets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objsets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="objsets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542175424537" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -339,27 +321,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="TweetSetSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="progfun1-objsets" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objsets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="objsets" />
-      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.TweetSetSuite" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -378,7 +339,7 @@
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-build [file:/home/dliang/Documents/OnlineEducation/ScalaProgramming/objsets/]" />
+                <option name="name" value="progfun1-objsets-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -388,7 +349,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="18233302612000" />
+        <entry key="$PROJECT_DIR$" value="18514383972000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
@@ -406,42 +367,28 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
       </map>
     </option>
-  </component>
-  <component name="ScalaProjectSettings">
-    <option name="intInjectionMapping">
-      <map>
-        <entry key="xml" value="XML" />
-      </map>
-    </option>
-    <option name="useEclipseCompatibility" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b93d8be0-9bbb-4d16-bc57-d35d0dcb48f5" name="Default Changelist" comment="" />
-      <created>1541727161509</created>
+      <changelist id="d9c7d9a2-1080-45f7-8615-0eee65321693" name="Default Changelist" comment="" />
+      <created>1545196556205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541727161509</updated>
+      <updated>1545196556205</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TweetSetSuite - 2018.11.09 at 21h 48m 09s.xml">
-      <configuration name="TweetSetSuite" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1058" extended-state="6" />
+    <frame x="959" y="0" width="953" height="1054" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -450,124 +397,35 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3287234" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3290735" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Gradle" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="sbt" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="sbt" order="9" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar!/org/scalatest/FunSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="1554" column="6" selection-start-line="1554" selection-start-column="6" selection-end-line="1554" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/lecture.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5850">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

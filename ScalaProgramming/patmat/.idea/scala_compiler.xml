@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="patmat_2186" />
+    <profile name="sbt 1" modules="patmat_5491" />
     <profile name="sbt 2" modules="progfun1-patmat">
       <option name="deprecationWarnings" value="true" />
     </profile>

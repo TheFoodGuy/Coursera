@@ -14,7 +14,7 @@ object FunSets {
   /**
    * Indicates whether a set contains a given element.
    */
-  def contains(s: Set, elem: Int): Boolean = s(elem)
+   def contains(s: Set, elem: Int): Boolean = s(elem)
 
   /**
    * Returns the set of the one given element.
