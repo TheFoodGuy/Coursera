@@ -33,6 +33,12 @@ class HuffmanSuite extends FunSuite {
     assert(string2Chars("hello, world") === List('h', 'e', 'l', 'l', 'o', ',', ' ', 'w', 'o', 'r', 'l', 'd'))
   }
 
+  // keep in mind that it has to be exactly similar to the result of the test or it'll always be wrong
+  // the function works as expected but i should order it later down the road if it comes to it.
+  test("times with hello") {
+    assert(times(List('h', 'e', 'l', 'l', 'o')) == List(('e', 1), ('h', 1), ('l', 2), ('o', 1)))
+  }
+
 
   test("makeOrderedLeafList for some frequency table") {
     assert(makeOrderedLeafList(List(('t', 2), ('e', 1), ('x', 3))) === List(Leaf('e',1), Leaf('t',2), Leaf('x',3)))
@@ -42,6 +48,10 @@ class HuffmanSuite extends FunSuite {
   test("combine of some leaf list") {
     val leaflist = List(Leaf('e', 1), Leaf('t', 2), Leaf('x', 4))
     assert(combine(leaflist) === List(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3), Leaf('x',4)))
+  }
+
+  test("checking the decodedsecret here"){
+    println(decodedSecret)
   }
 
 

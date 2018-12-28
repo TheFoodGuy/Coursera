@@ -18,7 +18,7 @@
 [info] Compiling 8 Scala sources to /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/target/scala-2.10/sbt-0.13/classes...
 [debug] Getting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7
 [debug] Getting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.10.7
-[debug] Running cached compiler ae3d9e1, interfacing (CompilerInterface) with Scala compiler version 2.10.7
+[debug] Running cached compiler 24810b10, interfacing (CompilerInterface) with Scala compiler version 2.10.7
 [debug] Calling Scala compiler with arguments  (CompilerInterface):
 [debug] 	-deprecation
 [debug] 	-bootclasspath
@@ -29,7 +29,7 @@
 [warn] trait CommonBuild extends Build {
 [warn]                           ^
 [warn] one warning found
-[debug] Scala compilation took 6.49863499 s
+[debug] Scala compilation took 6.560848344 s
 [debug] [naha] Invalidating /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/StudentBuildLike.scala...
 [debug] [naha] Invalidating (transitively) by inheritance from /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/StudentBuildLike.scala...
 [debug] [naha] Initial set of included nodes: Set(/home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/StudentBuildLike.scala)
@@ -102,3 +102,18 @@
 [debug] [naha] Previously invalidated, but (transitively) depend on new invalidations:
 [debug] [naha] 	Set()
 [debug] [naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/ScalaTestRunner.scala: Set(testExecutionFailed, asInstanceOf, maxTestScore, allTestsPassed, isInstanceOf, <init>, testExecutionDebugLog, GradingFeedback, ==, toString, !=, ne, eq, testsFailed)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/Courses.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/Courses.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/Courses.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/Courses.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/dliang/Documents/OnlineEducation/ScalaProgramming/patmat/project/Courses.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, maxScore, copy$default$2, $asInstanceOf, copy$default$5, CourseraId, productArity, equals, courseraId, all, asInstanceOf, synchronized, $isInstanceOf, packageName, scoreRatio, canEqual, copy$default$4, productPrefix, notifyAll, key, isInstanceOf, options, <init>, styleCheck, Courses, ==, clone, styleSheet, $init$, itemId, copy$default$3, copy, toString, Assignment, !=, getClass, Assignments, premiumItemId, copy$default$1, ne, partId, eq, StyleCheck, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
